@@ -1,10 +1,10 @@
 streamlit
-langchain
+langchain>=0.1.0
 langchain-core
 langchain-community
 langchain-groq
 wikipedia
-duckduckgo-search
-pydantic
+pydantic>=2.0
 python-dotenv
 dotenv
+duckduckgo-search>=6.1.7
