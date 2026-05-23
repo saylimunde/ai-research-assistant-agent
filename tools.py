@@ -1,5 +1,5 @@
 from langchain_community.tools import DuckDuckGoSearchRun,WikipediaQueryRun
-from langchain.tools import tool  # Use lowercase 'tool' decorator
+from langchain.tools import tool  
 from langchain_community.utilities import WikipediaAPIWrapper
 from datetime import datetime
 
