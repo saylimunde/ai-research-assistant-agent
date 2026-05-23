@@ -7,4 +7,5 @@ wikipedia
 pydantic>=2.0
 python-dotenv
 dotenv
-duckduckgo-search>=6.1.7
+duckduckgo-search==5.3.1b1
+ddgs
